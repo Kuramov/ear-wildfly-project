@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ear-wildfly-project.iml" filepath="$PROJECT_DIR$/ear-wildfly-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ear-wildfly-project-ear/ear-wildfly-project-ear.iml" filepath="$PROJECT_DIR$/ear-wildfly-project-ear/ear-wildfly-project-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ear-wildfly-project-ejb/ear-wildfly-project-ejb.iml" filepath="$PROJECT_DIR$/ear-wildfly-project-ejb/ear-wildfly-project-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ear-wildfly-project-web/ear-wildfly-project-web.iml" filepath="$PROJECT_DIR$/ear-wildfly-project-web/ear-wildfly-project-web.iml" />
+    </modules>
+  </component>
+</project>

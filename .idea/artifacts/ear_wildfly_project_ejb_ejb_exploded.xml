@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="ear-wildfly-project-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/ear-wildfly-project-ejb/target/ear-wildfly-project-ejb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ear-wildfly-project-ejb/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ear-wildfly-project-ejb/target/ear-wildfly-project-ejb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ear-wildfly-project-ejb" />
+    </root>
+  </artifact>
+</component>

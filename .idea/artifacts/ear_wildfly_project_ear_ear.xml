@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="ear-wildfly-project-ear:ear">
+    <output-path>$PROJECT_DIR$/ear-wildfly-project-ear/target</output-path>
+    <root id="archive" name="ear-wildfly-project-ear.ear">
+      <element id="artifact" artifact-name="ear-wildfly-project-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

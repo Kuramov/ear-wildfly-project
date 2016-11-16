@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="ear-wildfly-project-ejb:ejb">
+    <output-path>$PROJECT_DIR$/ear-wildfly-project-ejb/target</output-path>
+    <root id="archive" name="ear-wildfly-project-ejb.jar">
+      <element id="artifact" artifact-name="ear-wildfly-project-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>
