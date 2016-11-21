@@ -25,6 +25,12 @@
     <datasource jndi-name="java:jboss/datasources/ear-wildfly-projectDS" pool-name="ear-wildfly-project"
         enabled="true" use-java-context="true">
         <!--<connection-url>jdbc:h2:mem:ear-wildfly-project;DB_CLOSE_ON_EXIT=FALSE;DB_CLOSE_DELAY=-1</connection-url>-->
+
+        <!--14_26 time develop branch-->
+        <!--run development-->
+        <!--14_30 time develop branch-->
+        <!--run development-->
+
         <connection-url>jdbc:mysql://localhost:3306/Catalog_IDEA?useSSL=false</connection-url>
         <driver>mysql</driver>
         <security>
