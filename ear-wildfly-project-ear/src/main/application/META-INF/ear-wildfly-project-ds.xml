@@ -26,7 +26,7 @@
         enabled="true" use-java-context="true">
         <!--<connection-url>jdbc:h2:mem:ear-wildfly-project;DB_CLOSE_ON_EXIT=FALSE;DB_CLOSE_DELAY=-1</connection-url>-->
 
-        <!--14_48 time develop bag-->
+        <!--14_58 time develop-->
 
         <connection-url>jdbc:mysql://localhost:3306/Catalog_IDEA?useSSL=false</connection-url>
         <driver>mysql</driver>
